@@ -16,4 +16,4 @@ Objective 3) Modelling Fission-fusion dynamics
 
 We hope the script are useful - have fun!
 
-Claudia et al, 2022
+Claudia et al, 2022 
